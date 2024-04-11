@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NavigationBackButtonStyleSampleApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NavigationBackButtonStyleSampleApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
